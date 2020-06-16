@@ -27,10 +27,6 @@ menu:
     link: /Menu/resume
     icon: ""
 
-  - text: Postq
-    link: /Menu/Post/ssd
-    icon: ""
-    
 # Socialmedia Icons
 social_icons:
   - name: github
