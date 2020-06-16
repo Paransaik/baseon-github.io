@@ -33,21 +33,12 @@ menu:
     
 # Socialmedia Icons
 social_icons:
-
-//  - name: linkedin
-//    link: https://www.linkedin.com/christianezeani
-//    icon: fab fa-linkedin
-    
-//    - name: twitter
-//    link: https://www.twitter.com/christianezeani
-//    icon: fab fa-twitter
-
   - name: github
     link: https://github.com/Paransaik/
     icon: fab fa-github-square
 
   - name: facebook
-    link: https://www.facebook.com/profile.php?id=100048429983697&viewas=100000686899395
+    link: https://www.facebook.com/JeongTaeyeong
     icon: fab fa-facebook-square
 
 
