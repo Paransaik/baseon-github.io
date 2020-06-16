@@ -33,7 +33,7 @@ menu:
     
 # Socialmedia Icons
 social_icons:
-<!--
+/*
   - name: linkedin
     link: https://www.linkedin.com/christianezeani
     icon: fab fa-linkedin
@@ -41,7 +41,7 @@ social_icons:
     - name: twitter
     link: https://www.twitter.com/christianezeani
     icon: fab fa-twitter
--->
+*/
 
   - name: github
     link: https://github.com/Paransaik/
