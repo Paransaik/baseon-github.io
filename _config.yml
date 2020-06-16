@@ -28,7 +28,7 @@ menu:
     icon: ""
 
   - text: Post
-    link: /Menu/Post/Post.html
+    link: /Menu/Post/post.html
     icon: ""
     
 # Socialmedia Icons
