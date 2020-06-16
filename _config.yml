@@ -12,23 +12,23 @@ subtitle: OpenSoftware-WebSite
 # Side Menu Links
 menu:
   - text: Portfolio
-    link: /
+    link: /Menu/
     icon: ""
 
   - text: Skills & Offers
-    link: /skills-and-offers
+    link: /Menu/skills-and-offers
     icon: ""
 
   - text: Contact Me
-    link: /contact
+    link: /Menu/contact
     icon: ""
 
   - text: My Resume
-    link: /resume
+    link: /Menu/resume
     icon: ""
 
   - text: Post
-    link: /Menu/Post/test.md
+    link: /Menu/Post/test
     icon: ""
     
 # Socialmedia Icons
