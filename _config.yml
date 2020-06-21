@@ -26,6 +26,10 @@ menu:
   - text: My Resume
     link: /Menu/resume
     icon: ""
+    
+  - text: Post
+    link: /Menu/Post/ssd
+    icon: ""	
 
 # Socialmedia Icons
 social_icons:
