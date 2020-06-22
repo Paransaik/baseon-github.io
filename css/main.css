@@ -2,13 +2,7 @@ html, body {
     height: 100%;
 }
 
-body {
-    padding-top: 55px;
-    display: flex;
-    text-align: center;
-    flex-direction: column;
-    overflow: hidden;
-}
+
 
 main {
     margin: auto;
