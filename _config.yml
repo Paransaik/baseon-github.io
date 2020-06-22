@@ -27,6 +27,10 @@ menu:
     link: /Menu/resume
     icon: ""
     
+  - text: Post
+    link: /Menu/Post/index.html
+    icon: ""	
+
 
 # Socialmedia Icons
 social_icons:
