@@ -11,6 +11,10 @@ subtitle: OpenSoftware-WebSite
 
 # Side Menu Links
 menu:
+  - text: HMOE
+    link: /
+    icon: ""
+    
   - text: Portfolio
     link: /Menu/
     icon: ""
