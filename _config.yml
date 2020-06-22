@@ -1,11 +1,9 @@
 defaults:
   -
-   permalink: /:title/
-
-       scope:
-        path: ""
-        type: "pages"
-      values:
+    scope:
+      path: ""
+      type: "pages"
+    values:
       layout: default
 
 title: JeongTaeYeong
