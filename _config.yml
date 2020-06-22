@@ -32,7 +32,7 @@ menu:
     link: /Menu/resume
     icon: ""
     
-  - text: PostT
+  - text: Post
     link: /Menu/Post/index.html
     icon: ""	
 
