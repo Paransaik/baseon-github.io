@@ -1,7 +1,7 @@
 defaults:
   -
    permalink: /:title/
-     baseurl: ""
+
        scope:
         path: ""
         type: "pages"
@@ -10,6 +10,7 @@ defaults:
 
 title: JeongTaeYeong
 subtitle: OpenSoftware-WebSite
+baseurl: ""
 
 # Side Menu Links
 menu:
