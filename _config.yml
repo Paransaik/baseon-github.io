@@ -1,9 +1,10 @@
 defaults:
   -
-    scope:
-      path: ""
-      type: "pages"
-    values:
+     baseurl: ""
+       scope:
+        path: ""
+        type: "pages"
+      values:
       layout: default
 
 title: JeongTaeYeong
