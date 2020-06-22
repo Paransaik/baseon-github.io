@@ -35,28 +35,6 @@ img {
     padding-top: 20px;
 }
 
-/* Profile picture */
-
-.profile {
-    width: 10vh;
-    height: 10vh;
-    border-radius: 50%;
-}
-
-/* Colored links */
-
-a:link, a:visited {
-    color: var(--accent);
-}
-
-a.icon:hover {
-    text-decoration: none;
-}
-
-a:hover {
-    color: var(--accent) !important;
-}
-
 /* Copyright message */
 
 .copyright {
@@ -71,23 +49,6 @@ a:hover {
 
 .pages-icon {
     padding: 0 15px;
-}
-
-/* List item for posts/projects */
-
-.item {
-    padding: 10px 0;
-}
-
-.item-tag {
-    background-color: var(--accent);
-}
-
-/* Navigation icons */
-
-.navbar-icon {
-    font-size: 125%;
-    display: inline-block !important;
 }
 
 /* Colored borders at top/bottom of page */
