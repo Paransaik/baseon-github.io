@@ -121,6 +121,20 @@
     startDotsAnimation(6000);
 </script>
 
+    <section class="pan-layout">
+    {% include left.html %}
+    <section class="pan-layout-overlay"></section>
+    <section class="pan-layout-right">
+      {% include header.html %}
+      <section class="pan-layout-content">  
+        {{ content }} 
+      </section>
+      {% include footer.html %}
+    </section>
+  </section>
+  <script type="text/javascript" src="{{ '/assets/libs/jquery-3.4.1.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/libs/jquery-migrate-3.0.1.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/panthera-jekyll.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 </body>
 </html>
 
