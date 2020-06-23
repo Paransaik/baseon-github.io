@@ -1,4 +1,5 @@
 ---
+Layout: defualt
 ---
 
 # My Resume
