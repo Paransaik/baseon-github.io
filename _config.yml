@@ -16,12 +16,12 @@ menu:
     link: /
     icon: ""
     
-  - text: Schedule
+  - text: Profile
     link: /Menu/
     icon: ""
 
-  - text: Skills & Offers
-    link: /Menu/skills-and-offers
+  - text: Schedule
+    link: /Menu/schedule
     icon: ""
 
   - text: Contact Me
