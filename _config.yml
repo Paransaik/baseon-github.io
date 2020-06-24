@@ -21,7 +21,7 @@ menu:
     icon: ""
 
   - text: Schedule
-    link: /Menu/schedule
+    link: /Menu/Schedule
     icon: ""
 
   - text: Database
