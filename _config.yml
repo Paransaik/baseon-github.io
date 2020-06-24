@@ -28,8 +28,8 @@ menu:
     link: /Menu/Database
     icon: ""
 
-  - text: My Resume
-    link: /Menu/resume
+  - text: Java
+    link: /Menu/Java
     icon: ""
     
   - text: OpenSource
