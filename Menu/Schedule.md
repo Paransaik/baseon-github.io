@@ -5,5 +5,5 @@
 
 ## Season Schedule
 
-![/_images/Schedule_1.png]({{ site.baseurl }}![/_images/Schedule_1.png])
-![profile](_images/profile.jpg)
+![Schedule_1]({{ site.baseurl }}!https://github.com/Paransaik/Paransaik.github.io/blob/master/_images/Schedule_1.png?raw=true)
+
