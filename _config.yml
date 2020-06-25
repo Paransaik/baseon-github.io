@@ -23,7 +23,11 @@ menu:
   - text: Schedule
     link: /Menu/Schedule
     icon: ""
-    
+
+  - text: Gallery
+    link: /Menu/Gallery
+    icon: ""
+  
   - text: Contemplation
     link: /Menu/Contemplation
     icon: ""
