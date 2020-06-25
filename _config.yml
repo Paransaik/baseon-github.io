@@ -23,18 +23,23 @@ menu:
   - text: Schedule
     link: /Menu/Schedule
     icon: ""
-
-  - text: Database
-    link: /Menu/Database
+    
+  - text: Contemplation
+    link: /Menu/Contemplation
     icon: ""
-
+    
   - text: Java
     link: /Menu/Java
     icon: ""
     
+  - text: Database
+    link: /Menu/Database
+    icon: ""
+
   - text: OpenSource
     link: /Menu/OpenSource
     icon: ""	
+
 
 
 # Socialmedia Icons
