@@ -83,13 +83,16 @@ made by: Taeyeong, Jeong
 사용자 이름: admin | 비밀번호: 12345
 사용자 이름: admin | 비밀번호: 9999
 이 외에 인터넷에 검색해본다면 더 많은 사용자 아이디, 비밀번호를 검색할 수 있다.
-![Contemplation_9](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/Contemplation_9.jpg)
+
 #### 6) Hydra를 사용하여 IP Camera 암호 해독
+![Contemplation_9](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/Contemplation_9.jpg)
 
 [그림8] Hydera
 
   기본 암호가 작동하지 않으면 암호를 해독해야한다. 암호 해독에는 Hydra를 사용한다. Kail linux를 열고 다음 구문을 입력한다.
-# hydra -s 80 -l admin -P /root/Desktop/wl/cctvpass.txt -e ns -t 16 targetIP http *
+  
+    # hydra -s 80 -l admin -P /root/Desktop/wl/cctvpass.txt -e ns -t 16 targetIP http *
+    
 다음 구문에는 아래와 같은 뜻이 있다[7].
 -s: 80 포트 번호
 -l: admin-기본 로그인 이름
