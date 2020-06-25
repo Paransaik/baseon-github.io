@@ -28,9 +28,8 @@
   위 사례와 같이 국내 IP Camera 해킹 범죄가 최근 들어 급격히 증가하고 있는 추세이다. 수 십대의 IP Camera를 해킹한 20대가 징역을 선고 받기도 했으며, IP Camera 해킹을 통해 녹화한 성관계, 탈의실 영상 등을 버젓이 성인사이트 및 P2P사이트에 유포 및 판매한 범죄자들이 무더기 입건되기도 하였다. 뿐만 아니라, 중국 한 사이트에선 자신들이 해킹한 IP Camera를 국가와 장소별로 분류하여 이를 실시간 영상송신 및 구글맵 서비스와 연계해 상세주소까지 제공하고 있어 피해가 더욱 증가될 것으로 판단된다[3].
 
 ### 나. 해킹 사고 배경
-![Contemplation_2](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/Contemplation_2.png)
-
 [표1] IP Camera 취약 제품 수
+![Contemplation_2](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/Contemplation_2.png)
 
   한국인터넷진흥원에 따르면 우리나라에 유통 중인 IP Camera 53개 제조사, 400개 제품을 대상으로 공장 출하 시 초기에 설정된 ID 및 비밀번호의 취약점을 조사한 결과, 국내 제품인 경우 48개 제품, 해외 제품인 경우 78개 제품에서(총 31.5%) 보안취약점이 발견됐다고 전했다. 실제 국내에서도 IoT 보안 취약점 신고 및 조치 건수가 해마다 증가하고 있으며, 이로 인해 IP Camera에서 수집된 다양하고 수많은 데이터들이 개인정보 유출로 인한 프라이버시 침해를 낳고 있어 현재 다양한 사회적 문제가 발생하고 있다[4]. 이는 사용자들의 보안 인식이 턱없이 부족해 전문가가 아니더라도 손쉽게 프로그램과 사이트를 이용하여 해킹이 가능하기 때문인 것으로 사료된다.
 
