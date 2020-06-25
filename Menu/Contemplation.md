@@ -1,7 +1,7 @@
 ---
 ---
 # About IP Camera(未完成)
-Date: 2020.6.25.
+Update: 2020.6.25.
 
 made by: Taeyeong, Jeong
 
