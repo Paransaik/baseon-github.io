@@ -94,12 +94,13 @@ made by: Taeyeong, Jeong
     # hydra -s 80 -l admin -P /root/Desktop/wl/cctvpass.txt -e ns -t 16 targetIP http *
     
 다음 구문에는 아래와 같은 뜻이 있다[7].
--s: 80 포트 번호
--l: admin-기본 로그인 이름
--P: /root/desktop/worldlist.txt 브루트포싱을 위한 워드 리스트
--e: empty 패스워드
-ns: 빈 패스워드로 로그인 시도
-http: 공격을 하려는 포트 이름
+
+- s: 80 포트 번호
+- l: admin-기본 로그인 이름
+- P: /root/desktop/worldlist.txt 브루트포싱을 위한 워드 리스트
+- e: empty 패스워드
+- ns: 빈 패스워드로 로그인 시도
+- http: 공격을 하려는 포트 이름
 
 ### 마. 해킹을 막을 수 있는 방안
 # 작성 中
