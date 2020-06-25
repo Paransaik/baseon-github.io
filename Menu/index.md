@@ -4,6 +4,8 @@ Last Update: 2020.6.25.
 ## Resume
 ![Index_1](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/Index_1.jpg)
 
+Her name is Alice.
+
 #### Introduction
 
 안녕하세요. 현재 경일대학교 컴퓨터공학과/사이버보안학과에 재학중인 정태영입니다.
