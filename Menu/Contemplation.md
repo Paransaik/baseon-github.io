@@ -1,8 +1,6 @@
 ---
 ---
-# About IP Camera
-
-# 작성 中
+# About IP Camera(未完成)
 
 
 ## 1. 서론
