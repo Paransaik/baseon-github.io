@@ -2,14 +2,61 @@
 ---
 # Open Source
 
-해야할 일
-
-1. 과제 명령어 정리하기
-2. 시험 정리
-
 시험문제 25문제 시간 30분
 (객관식10, 짧은 주관식12~13, 약간 긴 주관식3~4개)
 
+---
+1. intro
+ - git init: 깃을 사용할 수 있또록 디렉토리를 초기화한다.
+ - cat file: 터미널 창에서 간단한 텍스트 문자의 내용을 확인한다.
+ - git add file: 수정한 파일을 스테이징 한다.
+ - git rm --cached: 스테이징을 취소한다.
+ - git commit -m "message": 커밋할 때 그 버전에 어떤 변경사항이 있었는지 메세지를 기록한다.
+ - git status: 커밋 한 후 작업 디렉토리의 상태를 나타내 준다.
+ - git log: 커밋한 기록을 자세히 볼 수 있다.
+ - git commit -am: 스테이징과 커밋을 한꺼번에 할 수 있다.
+ - git log --stat: 커밋에 관련된 파일 전부 볼 수 있다.
+
+2. 49p
+ - git remote add origin: 원격 저장소에 연결합니다.
+ - git remote -v: 원격 저장소에 연결됐는지 확인합니다.
+ - git push -u origin master: 지역저장소의 커밋을 맨 처음 원격 저장소로 올립니다.
+ - git pull: 원격 저장소의 커밋을 지역저장소로 가져옵니다.
+ - git push: 지역저장소의 커밋을 원격 저장소로 올립니다.
+ - ssh--keygen: SSH 키를 만듭니다.
+
+3. 88p
+ - git config user.name 'easys': 깃 환경에서 이름을 'easys'로 지정합니다.
+ - git config user.email 'doit@easys.co.kr': 깃 환경에서 메일을 'doit@easys.co.kr'로 지정합니다.
+ - git init: 현재 위치에 지역 저장소를 만듭니다.
+ - git status: 깃 상태를 확인합니다.
+ - git add ch01.txt: ch01.txt 파일을 스테이지에 올립니다.
+ - git commit -m 'ch01': 커밋 메시지 'cho1'를 붙여 커밋합니다.
+ - git commit -am 'ch02' or git commit -a -m 'ch02': 메시지 'ch02'를 붙여서 스테이징과 커밋을 동시에 합니다.
+ - git log: 커밋 정보를 확인합니다.
+
+4. 103p
+ - git branch fixed: 새로운 브랜치 fixed를 만듭니다.
+ - git checkout fixed: fixed 브랜치로 체크아웃 합니다.
+ - git log --oneline: 커밋로그에서 한 줄에 한 커밋씩 표시합니다.
+ - git add .: 수정할 전체 파일을 스테이지에 올립니다.
+ - git log --branches --graph: 커밋 로그에 각 브랜치의 커밋을 그래프로 표시합니다.
+
+ - git merge fixed: fixed 브랜치를 master 브랜치에 병합합니다.
+ - git cat edit.txt: 터미널 창에서 edit.txt 내용을 확인합니다.
+ - git init doit: doit 디렉터리를 만드는 동시에 지역 저장소로 만듭니다.
+ - git reset c1 커밋할 캐시: 현재 커밋을 다른 브랜치에 있는 C1 커밋으로 되돌립니다.
+ - git branch -d fixed: 병합이 끝난 fixed 브랜치를 삭제합니다.
+
+5. 137p
+ - git clone 복사한 주소 myhome: 원격 저장소를 myhome이라는 지역 저장소로 복제합니다.
+ - git fetch: 원격 저장소의 커밋을 가져오기만 하고 병합하진 않습니다.
+ - git checkout FETCH_HEAD: 패치로 가져온 정보가 있는 브랜치(FETCH_HEAD)로 이동합니다.
+ - git merge FETCH_HEAD: 패치로 가져온 정보가 있는 브랜치(FETCH_HEAD)를 master 브랜치로 병합합니다.
+ - git config --global user.name "yeong": 현재 깃 환경에서 사용할 이름을 지정합니다.
+ - git config --global user.email "exam@email.com": 현재 깃 환경에서 사용할 메일 주소를 지정합니다.
+ - git checkout -b fixed: 브랜치를 만드는 것과 동시에 체크아웃 합니다.
+ 
 ---
 1. 5p-4차산업혁명(바이오, 에너지, 지구공학, 우주기술 등 WEF 클라우드 슈밥이 제시; 다보스 세계경제포럼 회장)
 
