@@ -41,7 +41,6 @@
  - git log --oneline: 커밋로그에서 한 줄에 한 커밋씩 표시합니다.
  - git add .: 수정할 전체 파일을 스테이지에 올립니다.
  - git log --branches --graph: 커밋 로그에 각 브랜치의 커밋을 그래프로 표시합니다.
-
  - git merge fixed: fixed 브랜치를 master 브랜치에 병합합니다.
  - git cat edit.txt: 터미널 창에서 edit.txt 내용을 확인합니다.
  - git init doit: doit 디렉터리를 만드는 동시에 지역 저장소로 만듭니다.
