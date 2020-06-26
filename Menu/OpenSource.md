@@ -21,7 +21,7 @@
  - git remote add origin: 원격 저장소에 연결합니다.
  - git remote -v: 원격 저장소에 연결됐는지 확인합니다.
  - git push -u origin master: 지역저장소의 커밋을 맨 처음 원격 저장소로 올립니다.
- - git pull: 원격 저장소의 커밋을 지역저장소로 가져옵니다.
+ - git push: 원격 저장소의 커밋을 지역저장소로 가져옵니다.
  - git push: 지역저장소의 커밋을 원격 저장소로 올립니다.
  - ssh--keygen: SSH 키를 만듭니다.
 
