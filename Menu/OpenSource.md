@@ -88,9 +88,11 @@
  - 파이브라인 경제  플랫폼 경재
   
 7. 23p-소프트웨어 종류와 구조
+
 ![OpenSource_1](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_1.png)
 
 8. 24p-소프트웨어 라이프 사이클과 개발 단계★
+
 ![OpenSource_2](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_2.png)
 
 9. 25p-폭포수 모델★
@@ -319,6 +321,7 @@
  - readme: 방문자가 편하게 자기 저장소를 살펴 볼 수 있도록 안내문을 만든 파일
 
 46. 153p-markdown 문법★★★
+
 ![OpenSource_3](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_3.png)
 
 47. 157p-이미지 삽입 방법
