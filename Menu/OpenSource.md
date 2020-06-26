@@ -324,7 +324,7 @@
 ![OpenSource_3](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_3.png)
 
 47. 157p-이미지 삽입 방법
- - ![텍스트](./images/치노.jpg)
+    - ![텍스트](./images/치노.jpg)
 
 48. 160p-오픈 소스 프로젝트에 기여하기
  - 컨트리뷰션의 종류
