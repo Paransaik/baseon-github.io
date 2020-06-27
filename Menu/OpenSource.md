@@ -87,11 +87,10 @@
   
 7. 23p-소프트웨어 종류와 구조
 
- ![OpenSource_1](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_1.png)
 
 8. 24p-소프트웨어 라이프 사이클과 개발 단계★
 
- ![OpenSource_2](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_2.png)
+
 
 9. 25p-폭포수 모델★
  - 폭포수 모델로 개발된 소프트웨어에 대해 고객의 요구사항은 변할 수밖에 없다.
