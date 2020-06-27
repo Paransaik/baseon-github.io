@@ -86,11 +86,10 @@
  - 파이브라인 경제  플랫폼 경재
   
 7. 23p-소프트웨어 종류와 구조
-
+ - ![OpenSource_1](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_1.png)
 
 8. 24p-소프트웨어 라이프 사이클과 개발 단계★
-
-
+ - ![OpenSource_2](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_2.png)
 
 9. 25p-폭포수 모델★
  - 폭포수 모델로 개발된 소프트웨어에 대해 고객의 요구사항은 변할 수밖에 없다.
@@ -292,13 +291,10 @@
 41. 128p-여러 컴퓨터에서 원격 저장소 함께 사용하기★
  - git_home -(fetch)> github: git fetch
    * 병합은 따로 해야함, 파일을 가져올 때 어떤 부분이 수정 됐는지 보고 가져 옴(원래 내용과 바뀐내용의 차이를 알 수 있다.), commit이 얼마나 됐는지 알 수 있다.
-   
  - git_home -(push)> github: git push origin master
    * 원격 저장소에서 필요한 파일을 다운 + 병합
-   
  - github -(clone)> git_office
    * 작업 할 기존 저장소의 로컬 사본을 얻는 방법입니다.
-   
  - github -(pull)> git_office: git pull origin master
    * 원격 저장소에서 새로운 커밋으로 해당 로컬 복사본 을 업데이트 하는 방법(원격저장소에 새로운 내용이 없는지)
  
