@@ -42,8 +42,11 @@ menu:
 
   - text: OpenSource
     link: /Menu/OpenSource
-    icon: ""	
+    icon: ""
 
+  - text: Hacking
+    link: /Menu/Hacking
+    icon: ""
 
 
 # Socialmedia Icons
