@@ -87,7 +87,6 @@
  - 파이브라인 경제  플랫폼 경재
   
 7. 23p-소프트웨어 종류와 구조
-
 ![OpenSource_1](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_1.png)
 
 8. 24p-소프트웨어 라이프 사이클과 개발 단계★
