@@ -159,9 +159,9 @@
  - 지역 저장소: 지금까지 자신의 컴퓨터에서 작업하고 커밋을 저장
  - 안전을 위해 작업하는 컴퓨터가 아닌 다른 곳에 저장 공간이 필요
  - 원격 저장소: 버전 관리하는 파일들을 쉽게 백업
-   * 지역 저장소가 아닌 컴퓨터나 서버에 만든 저장소
-   * 지역 저장소와 연결되어 있으면서 백업과 협업이라는 중요한 역할을 함
-   * 구축가능하지만 유지비용이 많이 듦(깃허브 사용)
+  * 지역 저장소가 아닌 컴퓨터나 서버에 만든 저장소
+  * 지역 저장소와 연결되어 있으면서 백업과 협업이라는 중요한 역할을 함
+  * 구축가능하지만 유지비용이 많이 듦(깃허브 사용)
 
 25. 60p-깃허브로 할 수 있는 일★
  - 원격 저장소에서 깃을 사용할 수 있다(무료와 유로, 회원가입).
@@ -320,8 +320,7 @@
  - readme: 방문자가 편하게 자기 저장소를 살펴 볼 수 있도록 안내문을 만든 파일
 
 46. 153p-markdown 문법★★★
-
-![OpenSource_3](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_3.png)
+ - ![OpenSource_3](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/OpenSource_3.png)
 
 47. 157p-이미지 삽입 방법
  - ！[텍스트] (./images/치노.jpg)
