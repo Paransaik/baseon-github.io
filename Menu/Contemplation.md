@@ -55,7 +55,7 @@ made by: Taeyeong, Jeong
 
 [그림4] My IP
 
-  IP Camera 해킹에 적합한 IP 주소 범위를 선택하는 방법이 중요하다. IP Camera는 광대역 인터넷 연결로 연결된다. Google 또는 Bing 검색 창에 'My ip'를 입력하면 IP 주소가 표시된다. 사진에 나온 IP는 이다. 따라서 IP 범위는 77.247.181.1~77.247.181.255 이다.
+  IP Camera 해킹에 적합한 IP 주소 범위를 선택하는 방법이 중요하다. IP Camera는 광대역 인터넷 연결로 연결된다. Google 또는 Bing 검색 창에 'My ip'를 입력하면 IP 주소가 표시된다. 사진에 나온 IP는 이다. 따라서 IP 범위는 77.247.181.1~77.247.181.255이다.
 
 #### 3) IP Camera 해킹을위한 Angry Ip 구성
 ![Contemplation_6](https://raw.githubusercontent.com/Paransaik/Paransaik.github.io/master/_images/Contemplation_6.jpg)
@@ -146,8 +146,6 @@ made by: Taeyeong, Jeong
 
 [4] Metroseoul news, www.metroseoul.co.kr/article/2018101500175, 2020. 6. 27.
 
-[6] How to hack, null-byte.wonderhowto.com/forum/hack-cctv-private-cameras-015
-9437, 2020. 6. 27.
+[6] How to hack, null-byte.wonderhowto.com/forum/hack-cctv-private-cameras-0159437, 2020. 6. 27.
 
-[7] Secure your ip security cameras, www.lifewire.com/secure-your-ip-security-cam
-eras-2487488, 2020. 6. 27.
+[7] Secure your ip security cameras, www.lifewire.com/secure-your-ip-security-cameras-2487488, 2020. 6. 27.
