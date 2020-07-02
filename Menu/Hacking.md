@@ -608,12 +608,6 @@
  - WebGoat Stored XSS Attacks 실습, <script>alert(‘ This is stored XSS test’)</script>
  - WebGoat Reflected XSS Attacks 실습, 111’><script>window.open(‘http://www.naver.com’)</script><font size=‘4
  
-       "><script>alert(document.cookie)</script>
-       "><ScRiPt>alert(document.cookie)</ScRiPt>
-       "%3e%3cscript%3ealert(document.cookie)%3c/script%3e
-       "><scr<script>ipt>alert(document.cookie)</scr</script>ipt>
-        %00"><script>alert(document.cookie)</script>
- 
 6. 크로스 사이트 요청 변조(CSRF) 공격
  - 2001년 처음 발표
  - 피해자가 인지하지 못하는 상태에서 피해자의 브라우저가 특정 사이트에 강제적으로 리퀘스트를 보내도록 하는 기법
