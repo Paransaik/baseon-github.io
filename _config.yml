@@ -1,0 +1,43 @@
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+title: JeongTaeYeong
+subtitle: OpenSoftware-WebSite
+baseurl: ""
+
+# Side Menu Links
+menu:
+  - text: Home
+    link: /
+    icon: ""
+    
+  - text: Profile
+    link: /Menu/
+    icon: ""
+
+  - text: Schedule
+    link: /Menu/Schedule
+    icon: ""
+    
+  - text: Java
+    link: /Menu/Java
+    icon: ""
+
+# Socialmedia Icons
+social_icons:
+  - name: github
+    link: https://github.com/Paransaik/
+    icon: fab fa-github-square
+
+  - name: facebook
+    link: https://facebook.com/taeyeong419
+    icon: fab fa-facebook-square
+
+
+
+    

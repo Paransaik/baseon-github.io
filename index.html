@@ -1,0 +1,98 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="js/velocity.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+
+    <meta name="generator" content="Hugo 0.69.2" />
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+</head>
+<body>
+  <main>
+    <div class="intro">
+        <h1>T A E Y E O N G</h1>
+        <h2>of Cyber-Security, Kyungil University of Korea</h2>
+    </div>
+    <div id="container"></div>
+</main>
+
+<script>
+    function r (min, max) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    var dotsCount,
+    dotsHtml = "",
+    $dots;
+
+    dotsCount = 20;
+    dot = '<svg version="1.1" x="0px" y="0px" width="100" viewBox="0 0 98.7 98.4" \enable-background="new 0 0 98.7 98.4" xml:space="preserve">\
+    <g>\
+    <path fill="#FBD7EA" d="M52.5,48.7C67.9,69.5,90.6,65,97.5,58.8c0,0-3.4-3.9-12.1-8.5c5.8-3.1,13.3-8.8,13.3-8.8\
+    C91.9,36.3,67.9,32.4,52.5,48.7c0.1,0,0.2,0,0.3,0C52.7,48.8,52.6,48.8,52.5,48.7z"/>\
+    <path fill="#FBD7EA" d="M46.3,49.4C46.3,49.4,46.3,49.4,46.3,49.4C46.3,49.4,46.3,49.4,46.3,49.4C46.3,49.4,46.3,49.4,46.3,49.4\
+    C46.3,49.4,46.3,49.4,46.3,49.4C46.3,49.4,46.3,49.4,46.3,49.4C46.2,49.4,46.2,49.4,46.3,49.4C46.2,49.4,46.2,49.4,46.3,49.4\
+    C46.2,49.4,46.2,49.4,46.3,49.4C46.2,49.4,46.2,49.4,46.3,49.4C46.2,49.4,46.2,49.4,46.3,49.4C46.2,49.4,46.2,49.4,46.3,49.4\
+    C46.2,49.4,46.2,49.4,46.3,49.4C46.2,49.4,46.2,49.4,46.3,49.4C46.2,49.4,46.2,49.4,46.3,49.4C46.2,49.4,46.2,49.4,46.3,49.4\
+    C46.2,49.4,46.2,49.4,46.3,49.4C46.2,49.4,46.2,49.4,46.3,49.4C46.2,49.4,46.3,49.4,46.3,49.4C46.3,49.4,46.3,49.4,46.3,49.4\
+    C46.3,49.4,46.3,49.4,46.3,49.4z"/>\
+    <path fill="#FBD7EA" d="M65.5,13.6C65.8,7.9,63,1.3,62,0c-8.4,3.5-19.8,23-12,43.9c0-0.1,0.1-0.2,0.1-0.3c0,0.1-0.1,0.2-0.1,0.3\
+    c24.3-2,30.7-29.8,27.3-38C75.7,6.6,71.5,8.7,65.5,13.6z"/>\
+    <path fill="#FBD7EA" d="M46.3,43.9C46.6,17.6,30.4,5.6,21.1,5.3c0,0-0.3,5.2,2.7,14.6c-5.7-3.8-15.7-3-15.7-3\
+    C9.4,25.3,23.8,44.8,46.3,43.9c-0.1-0.1-0.1-0.2-0.2-0.3C46.1,43.7,46.2,43.8,46.3,43.9z"/>\
+    <path fill="#FBD7EA" d="M14,63.5c-3.6,4.3-5.5,11.2-5.4,12.9c8.8,2.3,29.7-6.3,36.2-27.6c-0.1,0.1-0.2,0.1-0.3,0.2\
+    c0.1-0.1,0.2-0.1,0.3-0.2C24.3,35.6,2.4,53.8,0,62.3C1.7,62.8,6.3,63.7,14,63.5z"/>\
+    <path fill="#FBD7EA" d="M52.5,85.9c2.6,5,11.1,9.4,12.6,10c5.6-7.2,3.5-36.3-15.9-43.6c0,0.1,0,0.2,0,0.3c0-0.1,0-0.2-0.1-0.3\
+    C29,66,39,92.9,46,98.4C47,97,49.7,93.1,52.5,85.9z"/>\
+    </g>\
+    </svg>'
+    for (var i = 0; i < dotsCount; i++) {
+        dotsHtml += dot;
+    }
+
+    $dots = $(dotsHtml);
+    var $container = $("#container");
+
+    var screenWidth = window.screen.availWidth,
+    screenHeight = window.screen.availHeight,
+    chromeHeight = screenHeight - (document.documentElement.clientHeight || screenHeight);
+
+    $dots.appendTo($container);
+
+    function startDotsAnimation(duration = 5000) {
+        $dots
+        .velocity({ 
+            translateX: [ 
+            function() { return screenWidth }
+            ],
+            translateY: [
+            function() { return "+=" + r(-screenHeight/2.75, screenHeight/2.75) },
+            function() { return r(0, screenHeight/2.5) }
+            ],
+            rotateZ: [ function() { return r(50, 200) }],
+            opacity: [ 
+            function() { return Math.random() },
+            function() { return Math.random() + 0.2 }
+            ]
+        }, { duration:duration, loop:true })
+
+    }
+    startDotsAnimation(6000);
+</script>
+</body>
+</html>
+

@@ -1,0 +1,62 @@
+html, body {
+    height: 100%;
+}
+
+main {
+    margin: auto;
+    padding: 25px;
+    flex: 1 0 auto;
+    width:100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* Homepage */
+
+.intro {
+    transform: translateY(22vh);
+}
+
+.intro > h1 {
+    color: #212121;
+    font-size: 12vh;
+}
+
+.intro > h2 {
+    color: #757575;
+    font-size: 3vmin;
+}
+
+/* Page content */
+
+.content {
+    padding-top: 20px;
+}
+
+/* Copyright message */
+
+.copyright {
+    margin: 15px 0;
+}
+
+/* Paginator */
+
+.pages {
+    padding: 15px 0;
+}
+
+.pages-icon {
+    padding: 0 15px;
+}
+
+/* Colored borders at top/bottom of page */
+
+.dot {
+    position: fixed;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: black;
+}
